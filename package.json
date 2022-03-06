@@ -7,7 +7,6 @@
   "scripts": {
     "start:producer": "node producer/index2.js",
     "start:consumer": "node consumer/index2.js",
-    "start:consumer2": "node consumer/index3.js",
     "start:admin": "node admin/index2.js"
   },
   "repository": {
